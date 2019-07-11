@@ -18,7 +18,7 @@ Developed a model to assess the level of damage to a vehicle during an accident 
 
 ### Customer segmentation using unsupervised learning methods
 
-The idea behind customer segmentation for businesses is finding the behavioral patterns in customers for that particular business.
+The idea behind customer segmentation for businesses is finding the behavioral patterns in customers for a business.
 These insights in-turn can really come in handy for targeted marketing and also increasing business productivity.
 The techniques used were:
 K-means clustering algorithm
