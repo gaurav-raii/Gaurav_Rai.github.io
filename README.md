@@ -25,5 +25,13 @@ K-means clustering algorithm
 Hierarchical clustering algorithm
 
 Tools used: Python
-
 Packages used: sk-learn, PCA
+
+### Trigger Word Detection
+
+• Built a trigger word detection system which detects the word "activate" from speech using a Recurrent Neural Network.
+• Generated artificial speech training data by inserting positive and negative words snippets on different 10 seconds long background noise clips.
+• Computed the spectograms for each training observation
+• used a 1-D Convolution layer and two GRU layers with Batch Normalization and Dropout (rate= 0.8).
+
+Framework used: Keras
