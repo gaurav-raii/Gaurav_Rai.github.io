@@ -22,6 +22,16 @@ negative.
 
 Tools used: Tensorflow
 
+### Neural machine translation attention model using LSTMs
+
+* Built a sophisticated attention model using LSTMs to translate human readable dates into standardized machine readable date. (e.g. "the 29th of August 1958" to "1958-08-29")
+* Used attention mechanism to improve the accuracy of the model.
+* Used two LSTM layers(a pre-attention Bi-Directional LSTM and a post-attention LSTM) to built the Recurrent Neural Network.
+
+Tools Used: Keras, Python
+
+Packages: Numpy
+
 ### Object Detection and Classification using YOLO_v2 Algorithm
 
 * Implemented the powerful YOLO algorithm with a deep convolutional neural network(CNN) to detect cars, people and 78 other objects with very high accuracy and ability to run in real time.
@@ -71,6 +81,21 @@ Tools Used: Python
 
 Packages: NLKT, Pandas
 
+### Random Under Sampling to predict the probability of Insurance Claim
+Jan 2019 – Mar 2019
+
+* Random Under sampling technique was used to model an event( Car crash insurance claim) having 
+skewed distribution of positive and negative classes. 
+* Modeling rare events where the observations in the minority class is less than 10% of the total 
+observations is challenging because the usual approach for classification problems tend to ignore the 
+minority event. It will classify all observations to the majority class and still will achieve a very high 
+accuracy. 
+* An effective approach to counter this specific shortcoming of the traditional methods is to use Random Under Sampling(RUS). Randomly Undersampling the negative class(majority class) to create training data with comparable negative and positive examples gave a huge boost to the accuracy of the classifiers.
+
+Tools Used: Python
+
+Packages: imb-learn, Pandas.
+
 ### Customer segmentation using unsupervised learning methods
 
 * The idea behind customer segmentation for businesses is finding the behavioral patterns in customers for that particular business.
@@ -83,3 +108,14 @@ Packages: NLKT, Pandas
 Tools used: Python
 
 Packages used: sk-learn, PCA
+
+### Moneyball Project
+Aug 2018 – Sep 2018
+
+* The project was to recreate the scenario and help Billy Beane find replacement players for three key players lost at the start of the off-season. The goal of the project was to take advantage of more analytical gauges of players to field a team that could better compete against the richer competitors in the major league basketball(MLB)
+*	Data from Sean Lahman’s website which is famous for baseball statistics.
+*	The replacement decision was based on Batting average, on-base percentage, slugging percentage
+
+Tools Used: R
+
+Packages: ggplot, islr
