@@ -9,7 +9,7 @@ My Email: gauravrai@tamu.edu
 
 ## Projects
 
-### One shot Learning for Face Recognition using Siamese Network
+### [One shot Learning for Face Recognition using Siamese Network](https://github.com/gaurav-raii/Deep-Learning-on-Tensorflow-and-Keras/tree/master/face%20verification%20and%20face%20recognition)
 
 * One shot Learning systems are able to use very few images such as 5 to 10 images of a person to learn 
 his/her facial encodings.
@@ -22,7 +22,7 @@ negative.
 
 Tools used: Tensorflow
 
-### Neural machine translation attention model using LSTMs
+### [Neural machine translation attention model using LSTMs]
 
 * Built a sophisticated attention model using LSTMs to translate human readable dates into standardized machine readable date. (e.g. "the 29th of August 1958" to "1958-08-29")
 * Used attention mechanism to improve the accuracy of the model.
@@ -32,7 +32,7 @@ Tools Used: Keras, Python
 
 Packages: Numpy
 
-### Object Detection and Classification using YOLO_v2 Algorithm
+### [Object Detection and Classification using YOLO_v2 Algorithm](https://github.com/gaurav-raii/Deep-Learning-on-Tensorflow-and-Keras/tree/master/YOLO)
 
 * Implemented the powerful YOLO algorithm with a deep convolutional neural network(CNN) to detect cars, people and 78 other objects with very high accuracy and ability to run in real time.
 * Applied class score threshold filter to eliminate unwanted boxes
@@ -49,7 +49,7 @@ Tools Used: Keras , Python
 
 Framework used: Keras
 
-### Transfer Learning to build a near perfect image classifier.
+### [Transfer Learning to build a near perfect image classifier](https://github.com/gaurav-raii/Transfer-Learning-on-Pytorch)
 Apr 2019 – Jun 2019
 
 * Built very deep convolutional neural network using already trained DenseNet121, ResNet34, InceptionNet networks as feature detectors for my network.
@@ -96,14 +96,13 @@ Tools Used: Python
 
 Packages: imb-learn, Pandas.
 
-### Customer segmentation using unsupervised learning methods
+### [Customer segmentation using unsupervised learning methods]
 
 * The idea behind customer segmentation for businesses is finding the behavioral patterns in customers for that particular business.
 * These insights in-turn can really come in handy for targeted marketing and also increasing business productivity.
 * The techniques used were:
 1) K-means clustering algorithm
-2)Mean Shift Clustering
-3) Hierarchical clustering algorithm
+2) Hierarchical clustering algorithm
 
 Tools used: Python
 
