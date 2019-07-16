@@ -146,7 +146,7 @@ Packages: ggplot, islr
  - Securing Federated Learning
  - Encrypted Deep Learning
  
-### [Big Data Specialization]()
+### Big Data Specialization
  - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/356D3VR4NB9F)
  - [Big Data Modelling and Management Systems]()
  - [Big Data Integration and Processing]()
@@ -158,12 +158,22 @@ Packages: ggplot, islr
 
  - [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/67d5fb982900432a9b1d8f6dbf36abbe/Statement.pdf)
  
-### [Data Wrangling by MongoDB](https://classroom.udacity.com/courses/ud032)
+### Data Wrangling by MongoDB
+  
+ -(https://classroom.udacity.com/courses/ud032)
  
-### [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
+### [Managing Big Data with MySQL]
 
-### [Machine Learning by Stanford University( Andrew NG)](https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
+ -(https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
 
-### [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-Z3LWMQIC/)
+### Machine Learning by Stanford University( Andrew NG)
 
-### [Data Structures and Algorithm in Python by Udacity](https://classroom.udacity.com/courses/ud513)   
+ -(https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
+
+### The Complete SQL Bootcamp
+
+ -(https://www.udemy.com/certificate/UC-Z3LWMQIC/)
+
+### [Data Structures and Algorithm in Python by Udacity]
+  
+ -(https://classroom.udacity.com/courses/ud513)   
