@@ -22,7 +22,7 @@ negative.
 
 Tools used: Tensorflow
 
-### [Neural machine translation attention model using LSTMs]
+### [Neural machine translation attention model using LSTMs](https://github.com/gaurav-raii/Deep-Learning-on-Tensorflow-and-Keras/tree/master/Attention%20model%20for%20machine%20translation)
 
 * Built a sophisticated attention model using LSTMs to translate human readable dates into standardized machine readable date. (e.g. "the 29th of August 1958" to "1958-08-29")
 * Used attention mechanism to improve the accuracy of the model.
@@ -62,7 +62,7 @@ Tools used: Pytorch, Python
 packages : Torchvision
 
 
-### Topic-analysis(NLP) to assess the level of damage during a car crash.( Course Project for Applied Analytics Class)
+### [Topic-analysis(NLP) to assess the level of damage during a car crash.( Course Project for Applied Analytics Class)](https://github.com/gaurav-raii/Topic-analysis-NLP-to-access-the-level-of-damage-during-a-car-crash.)
 
 * Developed a model to assess the damage to a vehicle during an accident using the text data from 
 complaints submitted to National Highway safety and Traffic Administration( NHSTA).
@@ -81,7 +81,7 @@ Tools Used: Python
 
 Packages: NLKT, Pandas
 
-### Random Under Sampling to predict the probability of Insurance Claim
+### [Random Under Sampling to predict the probability of Insurance Claim](https://github.com/gaurav-raii/Random-Undersampling-For-Rare-Events)
 Jan 2019 – Mar 2019
 
 * Random Under sampling technique was used to model an event( Car crash insurance claim) having 
@@ -96,7 +96,7 @@ Tools Used: Python
 
 Packages: imb-learn, Pandas.
 
-### [Customer segmentation using unsupervised learning methods]
+### [Customer segmentation using unsupervised learning methods](https://github.com/gaurav-raii/ML-Projects/tree/master/Customer%20segmentation%20using%20unsupervised%20learning)
 
 * The idea behind customer segmentation for businesses is finding the behavioral patterns in customers for that particular business.
 * These insights in-turn can really come in handy for targeted marketing and also increasing business productivity.
