@@ -40,7 +40,7 @@ Packages: Numpy
 
 Tools Used: Keras , Python
 
-### Trigger Word Detection
+### [Trigger Word Detection](https://github.com/gaurav-raii/Deep-Learning-on-Tensorflow-and-Keras/tree/master/Trigger%20word%20detection)
 
 * Built a trigger word detection system which detects the word "activate" from speech using a Recurrent Neural Network.
 * Generated artificial speech training data by inserting positive and negative words snippets on different 10 seconds long background noise clips.
