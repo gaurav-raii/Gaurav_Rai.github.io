@@ -118,3 +118,52 @@ Aug 2018 – Sep 2018
 Tools Used: R
 
 Packages: ggplot, islr
+
+## Skills: 
+    - Programming Languages: Python, R, SAS, C++, Shell Scripting.
+    - Databases: MySQL, NoSQL(MongoDB).
+    - Frameworks: TensorFlow, Keras, Hadoop, Spark.
+    - Skills: Machine Learning, Bayesian Methods, Support Vector Machines, Regression Models,Clustering, LDA, QDA, Natural Language Processing, Feature Engineering ,Deep Learning, CNNs, RNNs, LSTMs, GRUs.
+    
+## Certifications:
+
+### Deep Learning Specialization by Deep Learning.ai Institute 
+
+ - [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/SQYTDZDBM3S4)
+
+ - [Deep Neural Networks](https://www.coursera.org/account/accomplishments/verify/JB4B4GAJKRQD)
+ 
+ - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/2EHAD2CSN9GM)
+
+ - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/GG26U9JZJA8K)
+
+ - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/MLNFKVABEG4D)
+
+ - [Convonutional NeuraL Networks](https://www.coursera.org/account/accomplishments/verify/ZA9ZJVDMDENA)
+    
+### Secure and Private AI by Udacity
+ - Global and Local Differential Piracy
+ - Securing Federated Learning
+ - Encrypted Deep Learning
+ 
+### [Big Data Specialization]()
+ - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/356D3VR4NB9F)
+ - [Big Data Modelling and Management Systems]()
+ - [Big Data Integration and Processing]()
+ - [Machine Learning with Big Data]()
+ - [Graph Analytics with Big Data]()
+ - [Big Data Capstone project]()
+ 
+### Statistical Leanring by Stanford University: 
+
+ - [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/67d5fb982900432a9b1d8f6dbf36abbe/Statement.pdf)
+ 
+### [Data Wrangling by MongoDB](https://classroom.udacity.com/courses/ud032)
+ 
+### [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
+
+### [Machine Learning by Stanford University( Andrew NG)](https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
+
+### [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-Z3LWMQIC/)
+
+### [Data Structures and Algorithm in Python by Udacity](https://classroom.udacity.com/courses/ud513)   
