@@ -149,7 +149,7 @@ Packages: ggplot, islr
 ### Big Data Specialization
  - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/356D3VR4NB9F)
  - [Big Data Modelling and Management Systems](https://www.coursera.org/account/accomplishments/verify/T82XR9SC5D7E)
- - [Big Data Integration and Processing]()
+ - [Big Data Integration and Processing](https://www.coursera.org/account/accomplishments/verify/3YDYS238NAFN)
  - [Machine Learning with Big Data]()
  - [Graph Analytics with Big Data]()
  - [Big Data Capstone project]()
