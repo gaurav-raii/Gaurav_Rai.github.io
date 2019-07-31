@@ -160,11 +160,11 @@ Packages: ggplot, islr
  
 ### Data Wrangling by MongoDB
   
- -(https://classroom.udacity.com/courses/ud032)
+ -[Data Wrangling by MongoDB](https://classroom.udacity.com/courses/ud032)
  
-### [Managing Big Data with MySQL]
+### Managing Big Data with MySQL
 
- -(https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
+ -[Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
 
 ### Machine Learning by Stanford University( Andrew NG)
 
