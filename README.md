@@ -142,7 +142,7 @@ Packages: ggplot, islr
  - [Convonutional NeuraL Networks](https://www.coursera.org/account/accomplishments/verify/ZA9ZJVDMDENA)
     
 ### Secure and Private AI by Udacity
- - Global and Local Differential Piracy
+ - Global and Local Differential Privacy
  - Securing Federated Learning
  - Encrypted Deep Learning
  
@@ -160,19 +160,19 @@ Packages: ggplot, islr
  
 ### Data Wrangling by MongoDB
   
- -[Data Wrangling by MongoDB](https://classroom.udacity.com/courses/ud032)
+ - [Data Wrangling by MongoDB](https://classroom.udacity.com/courses/ud032)
  
 ### Managing Big Data with MySQL
 
- -[Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
+ - [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G4EMCLKYWQF2)
 
 ### Machine Learning by Stanford University( Andrew NG)
 
- -(https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
+ - (https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
 
 ### The Complete SQL Bootcamp
 
- -(https://www.udemy.com/certificate/UC-Z3LWMQIC/)
+ - (https://www.udemy.com/certificate/UC-Z3LWMQIC/)
 
 ### [Data Structures and Algorithm in Python by Udacity]
   
