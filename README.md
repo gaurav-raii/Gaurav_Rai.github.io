@@ -122,7 +122,7 @@ Packages: ggplot, islr
 ## Skills: 
     - Programming Languages: Python, R, SAS, C++, Shell Scripting.
     - Databases: MySQL, NoSQL(MongoDB).
-    - Frameworks: TensorFlow, Keras, Hadoop, Spark.
+    - Frameworks: TensorFlow, Keras, Hadoop, Spark( SparkSQL, SparkStreaming, MlLib, GraphX)
     - Skills: Deep Learning, CNNs, RNNs, LSTMs, GRUs, Natural Language Processing, Feature Engineering ,Machine Learning, Bayesian Methods, Support Vector Machines, Regression Models,Clustering, LDA, QDA.
     
 ## Certifications:
