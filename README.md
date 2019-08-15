@@ -168,12 +168,12 @@ Packages: ggplot, islr
 
 ### Machine Learning by Stanford University( Andrew NG)
 
- - (https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
+ - https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP
 
 ### The Complete SQL Bootcamp
 
- - (https://www.udemy.com/certificate/UC-Z3LWMQIC/)
+ - https://www.udemy.com/certificate/UC-Z3LWMQIC
 
 ### [Data Structures and Algorithm in Python by Udacity]
   
- - (https://classroom.udacity.com/courses/ud513)   
+ - https://classroom.udacity.com/courses/ud513   
