@@ -168,7 +168,7 @@ Packages: ggplot, islr
 
 ### Machine Learning by Stanford University( Andrew NG)
 
- - https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP
+ - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/DLUJ7NKCR2DP)
 
 ### The Complete SQL Bootcamp
 
