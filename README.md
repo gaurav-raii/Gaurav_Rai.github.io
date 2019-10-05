@@ -176,4 +176,4 @@ Packages: ggplot, islr
 
 ### [Data Structures and Algorithm in Python by Udacity]
   
- - https://classroom.udacity.com/courses/ud513   
+ - [https://classroom.udacity.com/courses/ud513](https://classroom.udacity.com/courses/ud513)
