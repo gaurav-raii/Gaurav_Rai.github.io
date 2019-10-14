@@ -172,7 +172,7 @@ Packages: ggplot, islr
 
 ### The Complete SQL Bootcamp
 
- - [https://www.udemy.com/certificate/UC-Z3LWMQIC]
+ - [https://www.udemy.com/certificate/UC-Z3LWMQIC](https://www.udemy.com/certificate/UC-Z3LWMQIC)
 
 ### Data Structures and Algorithm in Python by Udacity
   
